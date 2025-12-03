@@ -2,9 +2,6 @@
 
 In this challenge from TryHackMe's *Advent of Cyber*, I used Splunk to investigate a simulated attack against a web server. The goal was to practice log analysis, threat hunting, and SIEM skills by uncovering how the attacker compromised the system and what data was exfiltrated.  
 
-*Let’s do it, like old days.*  
-*(Spelunker NES vibes!)*  
-
 ---
 
 ## Questions to Answer
