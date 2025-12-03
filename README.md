@@ -64,3 +64,6 @@ to calculate the total data exfiltrated.
 - **SIEM value**: seeing how Splunk can correlate web traffic with firewall logs to confirm data exfiltration and attacker infrastructure.  
 
 Overall, this exercise reinforced how SIEM tools are powerful for detecting, investigating, and responding to security incidents. It was a hands‑on way to practice log analysis, anomaly detection, and incident response workflows.  
+
+---
+MORE: https://medium.com/@andreymsdev/splunk-basics-did-you-siem-cb53cf00cd96
